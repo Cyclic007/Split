@@ -16,3 +16,11 @@ I made the scematic and I am planning on using MX switches and the rp2040 zero f
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzMxLCJwdXIiOiJibG9iX2lkIn19--ef188de868b05fd16eed0501f5f0788291c13f1a/image.png)
   
 
+## 10/7/2025 - changeing the micro controller and finishing the main keeb  
+
+I have made the dicision to change to useing Adafruit KB2040 - RP2040 to make the keeb wireless. I also fixed the labels being wrong. I also made my scematic better and removed the 6th col because I only have 5 fingers and I also removed one button from the thumb row. I also finished roughting the keeb part of the PCB.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYyLCJwdXIiOiJibG9iX2lkIn19--8a08933b2006957543095003a375b6d38eb465f2/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYzLCJwdXIiOiJibG9iX2lkIn19--2b6f3b9273a69721b16692d2fdd2815ecd43e568/image.png)
+  
+
